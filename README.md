@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, MATLAB
 
 ## Education
-- Ph.D., 						       		
+- Ph.D., Mechanical Engineering | Michigan State University 						       		
 - M.S., 		
 
 
