@@ -1,6 +1,26 @@
-# This page will be updated soon! 
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, MATLAB
+
+## Education
+- Ph.D., Physics | 								       		
+- M.S., Physics	|       		
 
 
-## Project 1
+## Work Experience
+**Data Scientist @ 
 
-### Tools
+**Data Science 
+## Projects
+### Data-Driven 
+
+![EEG Band Discovery]
+![Bike Study](/assets/img/bike_study.jpeg)
+
+## Talks & Lectures
+- Ca
+
+## Publications
+1. 
+
+- [Data Science Blog](https://medium.com/@shawhin)
