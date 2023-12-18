@@ -15,24 +15,19 @@
 **Data Science  Intern @ FORD (May 2022 - Aug 2022 )
 
 ## Projects
-### 
+* 
 
 
-### Data-Driven ********
-[Publication](https://scholar.google.com/citations?user=P5jH2xAAAAAJ&hl=en)
+## Publications ********
+[Google Scholar](https://scholar.google.com/citations?user=P5jH2xAAAAAJ&hl=en)
 
 
+1. 
 
 
+2. 
 
 ## Talks & Lectures
 
 
 - 
-
-## Publications
-1. 
-
-### https://scholar.google.com/citations?user=P5jH2xAAAAAJ&hl=en 
-
-
