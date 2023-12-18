@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Mechanical Engineering | Michigan State University 						       		
-- M.S., 		
+- M.S., Mechanical Engineering | Wayne State University  		
 
 
 ## Work Experience
