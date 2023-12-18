@@ -10,9 +10,9 @@
 
 
 ## Work Experience
-**Data Scientist @ Stellantis (Feb 2023 - Present)
+**Data Scientist @ STELLANTIS (Feb 2023 - Present)
 
-**Data Science  Intern @ Ford (May 2022 - Aug 2022 )
+**Data Science  Intern @ FORD (May 2022 - Aug 2022 )
 
 ## Projects
 ### 
