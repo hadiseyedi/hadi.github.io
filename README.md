@@ -8,9 +8,10 @@
 
 
 ## Work Experience
-**Data Scientist @ 
+**Data Scientist @ Stellantis (Feb 2023 - Present)
 
-**Data Science 
+**Data Science  Intern @ Ford ( )
+
 ## Projects
 ### Data-Driven 
 
