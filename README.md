@@ -11,14 +11,13 @@
 
 * Analytics: A/B Testing, ANOVA test, Regularization, DS Pipeline (cleaning, EDA, modeling, interpretation).
 
-* Data Engineering: Data Ingestion, ETL, Data Quality, Docker
+* Data Engineering: Data Ingestion, ETL, Data Quality, Docker.
 
 * Big Data Programming Frameworks: Presto, Hive.
 
 * Cloud: AWS, Databricks, Snowflake, Microsoft Azure.
 
 * Miscellaneous Skills: Visualization, APIs, Version Control (Git).
-
 
 
 
@@ -32,6 +31,8 @@
 - Data Scientist @ STELLANTIS (Feb 2023 - Present)
 - Data Scientist @ DTE Energy (collaboration during the PhD program)
 - Data Science  Intern @ FORD (May 2022 - Aug 2022 )
+
+
 
 ## Projects
 * Will be updated soon!
