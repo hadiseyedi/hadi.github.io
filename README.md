@@ -1,13 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, MATLAB
-
-#### Technical Background: Data-driven Modeling, Machine Learning Algorithms, Statistical Methods, Numerical Analysis, and Computational Fluid Dynamics.
 
 ## Skills
-· Programming Languages: Python, SQL, Shell scripts, R, FORTRAN, MATLAB.
+* Programming Languages: Python, SQL, Shell scripts, R, FORTRAN, MATLAB.
 
-· Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
+* Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
 
 · AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
 
