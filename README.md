@@ -3,7 +3,7 @@
 
 ## Skills
 
-* Programming Languages: Python, SQL, Shell scripts, R, FORTRAN, MATLAB.
+* Programming Languages: Python, SQL, Shell scripts, R, MATLAB, FORTRAN.
 
 * Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
 
@@ -15,7 +15,7 @@
 
 * Big Data Programming Frameworks: Presto, Hive.
 
-* Cloud: AWS, Databricks, Snowflake, Microsoft Azure.
+* Cloud: AWS, Databricks, Microsoft Azure, Snowflake.
 
 * Miscellaneous Skills: Visualization, APIs, Version Control (Git).
 
