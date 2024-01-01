@@ -2,21 +2,22 @@
 
 
 ## Skills
+
 * Programming Languages: Python, SQL, Shell scripts, R, FORTRAN, MATLAB.
 
 * Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
 
-· AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
+* AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
 
-· Analytics: A/B Testing, ANOVA test, Regularization, DS Pipeline (cleaning, EDA, modeling, interpretation).
+* Analytics: A/B Testing, ANOVA test, Regularization, DS Pipeline (cleaning, EDA, modeling, interpretation).
 
-· Data Engineering: Data Ingestion, ETL, Data Quality, Docker
-.
-· Big Data Programming Frameworks: Presto, Hive.
+* Data Engineering: Data Ingestion, ETL, Data Quality, Docker
 
-· Cloud: AWS, Databricks, Snowflake, Microsoft Azure.
+* Big Data Programming Frameworks: Presto, Hive.
 
-· Miscellaneous Skills: Visualization, APIs, Version Control (Git).
+* Cloud: AWS, Databricks, Snowflake, Microsoft Azure.
+
+* Miscellaneous Skills: Visualization, APIs, Version Control (Git).
 
 
 
