@@ -18,7 +18,7 @@
 * 
 
 
-## Publications : [Google Scholar Link](https://scholar.google.com/citations?user=P5jH2xAAAAAJ&hl=en)
+## Publications : [Google Scholar](https://scholar.google.com/citations?user=P5jH2xAAAAAJ&hl=en)
 
 
 
