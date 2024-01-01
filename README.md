@@ -5,14 +5,21 @@
 #### Technical Background: Data-driven Modeling, Machine Learning Algorithms, Statistical Methods, Numerical Analysis, and Computational Fluid Dynamics.
 
 ## Skills
-· Programming Languages: Python, R, SQL, Spark, Shell scripts, C++, MATLAB, HTML.
-· Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, Spacy.
-· AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision, NLP, Reinforcement Learning.
+· Programming Languages: Python, SQL, Shell scripts, R, FORTRAN, MATLAB.
+
+· Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
+
+· AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
+
 · Analytics: A/B Testing, ANOVA test, Regularization, DS Pipeline (cleaning, EDA, modeling, interpretation).
-· Data Engineering: Data Ingestion, ETL, Data Quality, Docker, Kubernetes, Airflow, Terraform.
-· Big Data Programming Frameworks: Spark, Dask, Presto, Bodo, Ray, Numba.
-· Cloud: AWS, Databricks, Snowflake, Microsoft Azure, GCP.
-· Miscellaneous Skills: Algorithms, Data structures, OOP, Web scrapping, Visualization, APIs, Version Control (Git).
+
+· Data Engineering: Data Ingestion, ETL, Data Quality, Docker
+.
+· Big Data Programming Frameworks: Presto, Hive.
+
+· Cloud: AWS, Databricks, Snowflake, Microsoft Azure.
+
+· Miscellaneous Skills: Visualization, APIs, Version Control (Git).
 
 
 
