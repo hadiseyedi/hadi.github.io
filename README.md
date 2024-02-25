@@ -9,7 +9,7 @@
 
 * AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
 
-* Analytics: A/B Testing, ANOVA test, Regularization, DS Pipeline (cleaning, EDA, modeling, interpretation).
+* Analytics: A/B Testing, ANOVA test, Survival Analysis, DS Pipeline (cleaning, EDA, modeling, interpretation).
 
 * Data Engineering: Data Ingestion, ETL, Data Quality, Docker.
 
