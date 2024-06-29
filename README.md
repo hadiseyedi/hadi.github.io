@@ -3,7 +3,7 @@
 
 ## Skills
 
-* Programming Languages: Python, SQL, Shell scripts, R, MATLAB, FORTRAN.
+* Programming Languages: Python, SQL, Shell scripts, R, MATLAB.
 
 * Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
 
