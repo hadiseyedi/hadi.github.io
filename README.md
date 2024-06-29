@@ -28,9 +28,9 @@
 
 
 ## Work Experience
-- Data Scientist @ STELLANTIS (Feb 2023 - Present)
-- Data Scientist @ DTE Energy (collaboration during the PhD program)
-- Data Science  Intern @ FORD Motor Company (May 2022 - Aug 2022 )
+- Data Scientist @ STELLANTIS (Feb 2023 - Present).
+- Data Scientist @ DTE Energy.
+- Data Science  Intern @ FORD Motor Company (May 2022 - Aug 2022).
 
 
 
