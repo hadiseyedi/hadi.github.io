@@ -5,7 +5,7 @@ An applied scientist with an engineering PhD, passionate about cutting-edge data
 
 ## Skills
 
-* Programming Languages: Python, SQL, Shell scripts, MATLAB, R, FORTRAN.
+* Programming Languages: Python, SQL, Shell scripts, MATLAB, R.
   
 * Python Packages: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch.
   
