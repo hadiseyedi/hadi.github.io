@@ -1,6 +1,8 @@
 # Data Scientist
 
 
+An applied scientist with an engineering PhD, passionate about cutting-edge data science applications and actively seeking innovative technologies that will shape the future by pushing the boundaries
+
 ## Skills
 
 * Programming Languages: Python, SQL, Shell scripts, R, MATLAB.
