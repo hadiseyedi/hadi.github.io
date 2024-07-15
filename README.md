@@ -6,19 +6,19 @@ An applied scientist with an engineering PhD, passionate about cutting-edge data
 ## Skills
 
 * Programming Languages: Python, SQL, Shell scripts, MATLAB, R, FORTRAN.
-* 
+  
 * Python Packages: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch.
-* 
+  
 * AI: Machine Learning, Deep Learning, Computer Vision.
-* 
+  
 * Analytics: A/B Testing, Survival Analysis, DS Pipeline (cleaning, EDA, modeling, interpretation).
-* 
+  
 * Data & Time Series Analysis: Hypothesis testing, PCA, t-test, ANOVA, Forecasting with LSTMs.
-* 
+  
 * Cloud: AWS Sagemaker, Databricks, Treasure Data, Snowflake.
-* 
+  
 * GenAI: Amazon Bedrock, Retrieval-Augmented Generation (RAG).
-* 
+  
 * Miscellaneous Skills: Visualization, APIs, Version Control (Git), Docker, CI/CD & MLOps.
 
 
@@ -32,7 +32,7 @@ An applied scientist with an engineering PhD, passionate about cutting-edge data
 - Data Scientist @ STELLANTIS (Feb 2023 - Present).
 - Data Scientist @ DTE Energy.
 - Data Science  Intern @ FORD Motor Company (May 2022 - Aug 2022).
-- Graduate Research Assistant @ Michigan State University (May 2019 - Oct 2022)
+- GRA @ Michigan State University (May 2019 - Oct 2022)
 
 
 
