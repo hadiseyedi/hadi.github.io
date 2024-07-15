@@ -17,7 +17,7 @@ An applied scientist with an engineering PhD, passionate about cutting-edge data
   
 * Cloud: AWS Sagemaker, Databricks, Treasure Data, Snowflake.
   
-* GenAI(learning phase): Amazon Bedrock, Retrieval-Augmented Generation (RAG).
+* GenAI(Learning Phase): Amazon Bedrock, Retrieval-Augmented Generation (RAG).
   
 * Miscellaneous Skills: Visualization, APIs, Version Control (Git), Docker, CI/CD & MLOps.
 
