@@ -1,27 +1,18 @@
 # Data Scientist
 
 
-An applied scientist with an engineering PhD, passionate about cutting-edge data science applications and actively seeking innovative technologies that will shape the future by pushing the boundaries
+An applied scientist with an engineering PhD, passionate about cutting-edge data science applications and actively seeking innovative technologies that will shape the future by pushing the boundaries.
 
 ## Skills
 
-* Programming Languages: Python, SQL, Shell scripts, R, MATLAB.
-
-* Python Packages: Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch.
-
-* AI: Machine Learning, Deep Learning, Recommendation systems, Computer Vision.
-
-* Analytics: A/B Testing, ANOVA test, Survival Analysis, DS Pipeline (cleaning, EDA, modeling, interpretation).
-
-* Data Engineering: Data Ingestion, ETL, Data Quality, Docker.
-
-* Big Data Programming Frameworks: Presto, Hive.
-
-* Cloud: AWS, Databricks, Microsoft Azure, Snowflake.
-
-* Miscellaneous Skills: Visualization, APIs, Version Control (Git).
-
-
+* Programming Languages: Python, SQL, Shell scripts, MATLAB, R, FORTRAN. 
+* Python Packages: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch.
+* AI: Machine Learning, Deep Learning, Computer Vision.
+* Analytics: A/B Testing, Survival Analysis, DS Pipeline (cleaning, EDA, modeling, interpretation).
+* Data & Time Series Analysis: Hypothesis testing, PCA, t-test, ANOVA, Forecasting with LSTMs.
+* Cloud: AWS Sagemaker, Databricks, Treasure Data, Snowflake.
+* GenAI: Amazon Bedrock, Retrieval-Augmented Generation (RAG). 
+* Miscellaneous Skills: Visualization, APIs, Version Control (Git), Docker, CI/CD for ML (MLOps).
 
 
 ## Education
