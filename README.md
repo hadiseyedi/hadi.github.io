@@ -24,6 +24,7 @@ An applied scientist with an engineering PhD, passionate about cutting-edge data
 - Data Scientist @ STELLANTIS (Feb 2023 - Present).
 - Data Scientist @ DTE Energy.
 - Data Science  Intern @ FORD Motor Company (May 2022 - Aug 2022).
+- Graduate Research Assistant @ Michigan State University (May 2019 - Oct 2022)
 
 
 
